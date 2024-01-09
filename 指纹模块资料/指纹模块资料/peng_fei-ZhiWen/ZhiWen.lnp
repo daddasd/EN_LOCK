@@ -1,0 +1,4 @@
+"ZhiWen.obj",
+"lcd1602.obj" 
+TO "ZhiWen" 
+RAMSIZE(256) 
